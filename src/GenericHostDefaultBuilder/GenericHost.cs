@@ -82,7 +82,7 @@ namespace Microsoft.NetCore
                 {
                     contextEnvironmentVariable = "NETCORE_ENVIRONMENT";
                 }
-                env.EnvironmentName = System.Environment.GetEnvironmentVariable(contextEnvironmentVariable) ?? "production";
+                env.EnvironmentName = System.Environment.GetEnvironmentVariable(contextEnvironmentVariable) ?? "Production";
             });
         }
 
