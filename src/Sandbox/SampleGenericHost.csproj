@@ -52,7 +52,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GenericHostDefaultBuilder\DefaultBuilder.csproj" />
+    <ProjectReference Include="..\NetCore.DefaultBuilder\NetCore.DefaultBuilder.csproj" />
   </ItemGroup>
 
 </Project>

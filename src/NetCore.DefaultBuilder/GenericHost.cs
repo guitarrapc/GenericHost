@@ -5,7 +5,7 @@ using System;
 using System.IO;
 using System.Reflection;
 
-namespace Microsoft.NetCore
+namespace NetCore.DefaultBuilder
 {
     // ref: https://github.com/aspnet/AspNetCore/blob/4e44025a52e4b73aa17e09a8041b0e166e0c5ce0/src/DefaultBuilder/src/WebHost.cs
     /// <summary>
